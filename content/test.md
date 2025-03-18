@@ -18,3 +18,5 @@ More content:
 _italics_
 
 __italics__
+
+I've setup git.
