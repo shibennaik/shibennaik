@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Shiben Naik</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2025-10-18T12:57:00-05:00</updated><entry><title>Test</title><link href="/test.html" rel="alternate"></link><published>2025-10-18T12:57:00-05:00</published><updated>2025-10-18T12:57:00-05:00</updated><author><name>Shiben Naik</name></author><id>tag:None,2025-10-18:/test.html</id><content type="html">&lt;h1&gt;Test&lt;/h1&gt;
+&lt;p&gt;Some content.&lt;/p&gt;
+&lt;h2&gt;h2&lt;/h2&gt;
+&lt;p&gt;More content:
+- first bullet
+  - sub bullet
+- second&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;italics&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I've setup git.&lt;/p&gt;
+&lt;p&gt;I'm going to use VSCode.&lt;/p&gt;</content><category term="Test"></category></entry></feed>
